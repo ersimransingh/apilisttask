@@ -11,8 +11,8 @@ Before you begin, ensure you have met the following requirements:
 
 To get this project up and running on your local machine, follow these steps:
 
-   git clone https://github.com/ersimransingh/apilisttask.git
-   cd apilisttask
-   npm install
-   npm start
+   - git clone https://github.com/ersimransingh/apilisttask.git
+   - cd apilisttask
+   - npm install
+   - npm start
     
